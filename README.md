@@ -1,7 +1,7 @@
 # Blinkit-Analysis-python
-## **BUSINESS REQUIREMENT:**
+## **Project Objective:**
 
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Python.
+Project is to perfrom a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Python.
 
 ## **Dataset used:**
 - <a href="https://github.com/SowmallyaM/Blinkit-Analysis-python-/blob/main/blinkit_data.csv">Blinkit Data</a>
